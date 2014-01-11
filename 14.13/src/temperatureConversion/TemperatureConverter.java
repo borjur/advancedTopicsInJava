@@ -16,7 +16,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author wade
+ * @author Boris Jurosevic
  */
 public class TemperatureConverter extends JFrame
 {
